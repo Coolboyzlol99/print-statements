@@ -1,15 +1,17 @@
 print("Hi! My name is Avyan and today I will be telling you about my daily routine.")
 #Step 1
-print("First, I wake up in the morning.")
+print("First, I wake up in the morning at 6:30 AM.")
 #Step 2
-print("Then I brush my teeth and take a bath.")
+print("Then I go to school at 7:15 AM.")
 #Step 3
-print("Then I wear my clothes and get ready.")
+print("Then I come back and do my homework.")
 #Step 4
-print("Then I pack my school bag according to the days time table.")
+print("Then I go down to play with football with my friends.")
 #Step 5
-print("Then I go down and wait for the bus to arrive.")
+print("Then I come back and have dinner.")
 #Step 6
-print("Then I sit in the bus and go to school.")
+print("Then I talk to my family for some time.")
 #Done
-print("That is my daily routine in the morning. Thank you!")
+print("Then I go to sleep.")
+#thank
+print("That is my daily routine. Thank you!")
